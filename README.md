@@ -1,2 +1,3 @@
 # Kaggle-Dacon-Practice
-my practice space about Kaggle \& Dacon
+My practice space about Kaggle \& Dacon.
+My goal is to make commit everyday maybe.
